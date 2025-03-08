@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Banupriya R</h1>
-<h3 align="center">Full Stack developer and passionate in Frontend Development (JAVA DEVELOPER)</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 <h3 align="left">🎓 Education:</h3>
