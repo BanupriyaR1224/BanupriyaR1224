@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Banupriya R</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer | Full Stack Python Developer</h3>
 
 ---
 <h3 align="left">🎓 Education:</h3>
@@ -12,6 +12,13 @@
     <strong>2019 - 2022</strong><br />
     <strong>Bachelor of Computer Applications (BCA)</strong>, Bangalore University<br />
     <strong>CGPA:</strong> 8.97
+    <br /><br />
+    <strong>2017 - 2019</strong><br />
+    <strong>Pre University Course(PCMCs)</strong>, St Francis Pre University College<br />
+    <strong>Percentage:</strong> 77%
+    <br /><br />
+    <strong>SSLC (10th Grade)</strong>, Modern English School<br />
+    <strong>Percentage:</strong> 85%
   </div>
 </div>
 
